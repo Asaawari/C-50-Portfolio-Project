@@ -1,0 +1,24 @@
+h1{
+ color: crimson;
+ border: double;
+  border:darkviolet;
+  border: 9px;
+}
+*{
+  align-items: center;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: double;
+  border:darkviolet;
+  border: 9px;
+}
+h2{
+  color: cornflowerblue;
+  text-shadow: crimson;
+  text-shadow: 33px;
+  border: double;
+  border:darkviolet;
+  border: 9px;
+  text-decoration: fuchsia;
+  text-decoration-style: inherit;
+}
